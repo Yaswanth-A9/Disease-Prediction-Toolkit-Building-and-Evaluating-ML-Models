@@ -51,13 +51,8 @@ The goal of this project is to predict whether a patient has diabetes based on m
 - Pandas, NumPy
 - Scikit-Learn
 - Matplotlib, Seaborn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
-## 💻 Installation
 
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
